@@ -1,0 +1,70 @@
+.header{
+    height: 90px;
+    background-color: lightsteelblue;
+}
+.main{
+    padding: 100px 80px;
+}
+.footer{
+    height: 150px;
+    background-color: slategrey;
+    padding: 40px;
+    color: white;
+}
+.header-list li{
+    list-style: none;
+    float: left;
+    padding: 33px 20px;
+}
+.header-logo{
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px 20px 40px;
+}
+.footer-logo{
+    float: left;
+    font-size: 32px;
+}
+.footer-list{
+    float: right;
+}
+.footer-list li{
+    list-style: none;
+}
+.copy-container h1{
+    font-size: 140px;
+}
+.copy-container h2{
+    font-size: 60px;
+}
+.copy-container span{
+    color: red;
+}
+.section-title{
+    border-bottom: 2px solid black;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+.contents-item{
+    float: left;
+    margin-right: 30px;
+}
+.contents-item{
+    font-size: 24px;
+    margin-top: 30px;
+}
+.contain{
+    height: 500px;
+}
+input, textarea{
+    width: 400px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid lightblue;
+}
+.contact-submit{
+    background-color: lightblue;
+}
